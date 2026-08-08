@@ -1,4 +1,4 @@
-# food-donation-platform-node-express-mongodb 🍲
+# Food-Donation-Platform-Node-Express-MongoDB 🍲
 
 A full-stack web application that connects people who have surplus food to donate with people who need it — built on Node.js, Express, EJS, and MongoDB, with JWT-based authentication and image uploads for donation listings.
 
